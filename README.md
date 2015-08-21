@@ -1,6 +1,6 @@
 ![HoneyEncryption](Resources/keylog.gif)
 
-# Simple_Keylogger
+# Simple Keylogger
 Captures keystrokes and emails it back to you.
 
 
